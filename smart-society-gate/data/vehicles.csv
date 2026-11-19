@@ -1,0 +1,9 @@
+plate_number,vehicle_type,owner_name,flat_no,status,valid_from,valid_to
+UP70AB1234,car,R. Sharma,A-101,active,2026-01-01,2027-12-31
+UP32CD5678,car,P. Verma,A-204,active,2026-01-01,2027-12-31
+DL3CAF4321,bike,S. Khan,B-12,active,2026-06-01,2027-05-31
+MH12XY9876,car,A. Patil,C-303,blocked,2026-01-01,2027-12-31
+KA05MN1111,car,K. Rao,B-07,active,2024-01-01,2025-12-31
+22BH1234AA,car,N. Singh,D-402,active,2026-01-01,2028-12-31
+TN88F4089 ,car,Anupam ,D-403,active,2026-01-01,2028-12-31
+DL7CQ1939 , car,Vaibhav,F-88 ,active,2026-01-12,2028-12-31

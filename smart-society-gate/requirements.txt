@@ -1,0 +1,18 @@
+# Pinned versions (NFR-MAINT-1). Tested with Python 3.11 on Windows.
+
+# --- Gateway + tools ---
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+pymongo==4.10.1
+httpx==0.28.1
+pillow==11.0.0
+python-dotenv==1.0.1
+tzdata==2024.2
+
+# --- AI service (YOLO + EasyOCR). Pulls in PyTorch (CPU), ~2 GB download ---
+ultralytics==8.3.40
+easyocr==1.7.2
+
+# --- Tests ---
+pytest==8.3.4
+mongomock==4.3.0

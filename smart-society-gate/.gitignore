@@ -1,0 +1,31 @@
+# Environment variables
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# YOLO trained weights
+ai_service/models/*.pt
+
+# ESP32 secrets
+esp32/SmartGateCam/secrets.h
+
+# Generated results
+results/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
